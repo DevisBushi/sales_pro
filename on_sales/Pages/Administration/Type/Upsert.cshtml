@@ -1,0 +1,48 @@
+﻿@page
+@model on_sales.Pages.Administration.Lloji.UpsertModel
+@{
+    ViewData["Title"] = "Upsert";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+    <form method="post" asp-action="Upsert">
+        <div class="container">
+            <div class="row px-2 mx-2 animated border">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                @if (Model.PolicyTypeObj.Id != 0)
+                {
+                    <input type="hidden" asp-for="PolicyTypeObj.Id" />
+                }
+
+                <div class="col-12 px-3" style="border-bottom:1px solid #325d88">
+                    <h2 class="text-black-50">@(Model.PolicyTypeObj.Id != 0 ? "Ndrysho" : "Krijo") Lloje</h2>
+                </div>
+
+                <div class="col-8 pt-3">
+                    <div class="form-group row">
+                        <div class="col-3">
+                            <label asp-for="PolicyTypeObj.Name"></label>
+                        </div>
+                        <div class="col-9">
+                            <input class="form-control" asp-for="PolicyTypeObj.Name" />
+                            <span class="text-danger" asp-validation-for="PolicyTypeObj.Name"></span>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-9 offset-3">
+                            <div class="row">
+                                <div class="col-6">
+
+                                    <button type="submit" class="btn btn-dark form-control">@(Model.PolicyTypeObj.Id != 0 ? "Ndrysho" : "Krijo")</button>
+
+                                </div>
+                                <div class="col-6">
+                                    <a asp-page="./Index" class="btn btn-success form-control">Kthehu</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
