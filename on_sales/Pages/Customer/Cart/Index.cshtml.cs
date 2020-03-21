@@ -26,24 +26,28 @@ namespace on_sales.Pages.Customer.Cart
         {
             OrderDetailsCartVM = new OrderDetailsCart()
             {
-                OrderHeader = new Sales.Models.OrderHeader()
+                OrderHeader = new Sales.Models.OrderHeader(),
+                listCart = new List<ShoppingCart>()
             };
 
             OrderDetailsCartVM.OrderHeader.OrderTotal = 0;
 
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
-
-            IEnumerable<ShoppingCart> cart = _workingUnit.ShoppingCart.GetAll(c => c.ApplicationUserId == claim.Value);
-
-            if (cart != null)
+            if (claim != null)
             {
-                OrderDetailsCartVM.listCart = cart.ToList();
-            }
-            foreach (var cartList in OrderDetailsCartVM.listCart)
-            {
-                cartList.PolicyItems = _workingUnit.PolicyItems.GetFirstOrDefault(p => p.Id == cartList.PolicyItemsId);
-                OrderDetailsCartVM.OrderHeader.OrderTotal += (cartList.PolicyItems.Price * cartList.Count);
+
+                IEnumerable<ShoppingCart> cart = _workingUnit.ShoppingCart.GetAll(c => c.ApplicationUserId == claim.Value);
+
+                if (cart != null)
+                {
+                    OrderDetailsCartVM.listCart = cart.ToList();
+                }
+                foreach (var cartList in OrderDetailsCartVM.listCart)
+                {
+                    cartList.PolicyItems = _workingUnit.PolicyItems.GetFirstOrDefault(p => p.Id == cartList.PolicyItemsId);
+                    OrderDetailsCartVM.OrderHeader.OrderTotal += (cartList.PolicyItems.Price * cartList.Count);
+                }
             }
         }
 

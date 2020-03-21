@@ -14,7 +14,6 @@ using Microsoft.Extensions.Hosting;
 using on_sales.DataAccess;
 using Sales.DataAccess.Repository;
 using Sales.DataAccess.Repository.IRepository;
-using SoapCore;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using System.ServiceModel;
 

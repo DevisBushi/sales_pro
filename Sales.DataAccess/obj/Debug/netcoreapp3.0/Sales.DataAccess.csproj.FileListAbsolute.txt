@@ -48,3 +48,17 @@ D:\source\repos\on_sales\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAcce
 D:\source\repos\on_sales\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CopyComplete
 D:\source\repos\on_sales\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.dll
 D:\source\repos\on_sales\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.pdb
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.deps.json
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.dll
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.pdb
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Models.dll
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Utility.dll
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Models.pdb
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Utility.pdb
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csprojAssemblyReference.cache
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.AssemblyInfo.cs
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CopyComplete
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.dll
+C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.pdb

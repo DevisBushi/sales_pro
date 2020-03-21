@@ -29,3 +29,15 @@ D:\source\repos\on_sales\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.Assem
 D:\source\repos\on_sales\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.dll
 D:\source\repos\on_sales\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.pdb
 D:\source\repos\on_sales\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.csprojAssemblyReference.cache
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Models.deps.json
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Models.dll
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Models.pdb
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.csprojAssemblyReference.cache
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.csproj.CoreCompileInputs.cache
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.AssemblyInfoInputs.cache
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.AssemblyInfo.cs
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.dll
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.pdb
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Utility.dll
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Utility.pdb
+C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.csproj.CopyComplete

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\on_sales\\on_sales\\on_sales.csproj": {}
+    "C:\\Users\\dbush\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\on_sales\\on_sales\\on_sales.csproj": {
+    "C:\\Users\\dbush\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\on_sales\\on_sales\\on_sales.csproj",
+        "projectUniqueName": "C:\\Users\\dbush\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj",
         "projectName": "on_sales",
-        "projectPath": "D:\\source\\repos\\on_sales\\on_sales\\on_sales.csproj",
-        "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\on_sales\\on_sales\\obj\\",
+        "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj",
+        "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\on_sales\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\source\\repos\\on_sales\\Sales.DataAccess\\Sales.DataAccess.csproj": {
-                "projectPath": "D:\\source\\repos\\on_sales\\Sales.DataAccess\\Sales.DataAccess.csproj"
+              "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj"
               }
             }
           }
@@ -100,24 +97,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\source\\repos\\on_sales\\Sales.DataAccess\\Sales.DataAccess.csproj": {
+    "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\on_sales\\Sales.DataAccess\\Sales.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
         "projectName": "Sales.DataAccess",
-        "projectPath": "D:\\source\\repos\\on_sales\\Sales.DataAccess\\Sales.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\on_sales\\Sales.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,11 +124,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\source\\repos\\on_sales\\Sales.Models\\Sales.Models.csproj": {
-                "projectPath": "D:\\source\\repos\\on_sales\\Sales.Models\\Sales.Models.csproj"
+              "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
+                "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj"
               },
-              "D:\\source\\repos\\on_sales\\Sales.Utility\\Sales.Utility.csproj": {
-                "projectPath": "D:\\source\\repos\\on_sales\\Sales.Utility\\Sales.Utility.csproj"
+              "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
+                "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
               }
             }
           }
@@ -206,24 +200,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\source\\repos\\on_sales\\Sales.Models\\Sales.Models.csproj": {
+    "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\on_sales\\Sales.Models\\Sales.Models.csproj",
+        "projectUniqueName": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj",
         "projectName": "Sales.Models",
-        "projectPath": "D:\\source\\repos\\on_sales\\Sales.Models\\Sales.Models.csproj",
-        "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\on_sales\\Sales.Models\\obj\\",
+        "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj",
+        "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -235,7 +226,11 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
+                "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -285,24 +280,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\source\\repos\\on_sales\\Sales.Utility\\Sales.Utility.csproj": {
+    "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\on_sales\\Sales.Utility\\Sales.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
         "projectName": "Sales.Utility",
-        "projectPath": "D:\\source\\repos\\on_sales\\Sales.Utility\\Sales.Utility.csproj",
-        "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\on_sales\\Sales.Utility\\obj\\",
+        "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+        "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -354,7 +346,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9RwIkLFmnPr1YBTLu8M4VZdSoH8s1WgZulUs8U7ByiLARunEAtOVJr8iWULuc8NvyhZJ4Vesp2sjh1GuU612qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dbush\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\dbush\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\dbush\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

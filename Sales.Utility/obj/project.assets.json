@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dbushi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\dbush\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\on_sales\\Sales.Utility\\Sales.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\dbush\\Source\\Repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
       "projectName": "Sales.Utility",
-      "projectPath": "D:\\source\\repos\\on_sales\\Sales.Utility\\Sales.Utility.csproj",
-      "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\repos\\on_sales\\Sales.Utility\\obj\\",
+      "projectPath": "C:\\Users\\dbush\\Source\\Repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+      "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dbush\\Source\\Repos\\sales_pro\\Sales.Utility\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -76,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
