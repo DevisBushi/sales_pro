@@ -13,17 +13,21 @@ namespace Sales.Models
             Count = 1;
         }
         public int Id { get; set; }
+
         public int PolicyItemsId { get; set; }
+
         [NotMapped]
         [ForeignKey("PolicyItemsId")]
         public virtual PolicyItems PolicyItems { get; set; }
+
         public string ApplicationUserId { get; set; }
+
         [NotMapped]
         [ForeignKey("ApplicationUserId")]
         public virtual ApplicationUser ApplicationUser { get; set; }
 
-        [Range(1,100, ErrorMessage = "Ju lutem Zgjidhni ndermjet 1 ose 100")]
-        public int Count { get; set; }
 
+        [Range(1, 100, ErrorMessage = "Please select a count between 1 and 100")]
+        public int Count { get; set; }
     }
 }

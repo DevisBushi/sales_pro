@@ -41,3 +41,15 @@ C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales
 C:\Users\dbush\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Utility.dll
 C:\Users\dbush\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Utility.pdb
 C:\Users\dbush\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.csproj.CopyComplete
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Models.deps.json
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Models.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Models.pdb
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Utility.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\bin\Debug\netcoreapp3.0\Sales.Utility.pdb
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.csprojAssemblyReference.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.csproj.CoreCompileInputs.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.AssemblyInfoInputs.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.AssemblyInfo.cs
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.csproj.CopyComplete
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.Models\obj\Debug\netcoreapp3.0\Sales.Models.pdb

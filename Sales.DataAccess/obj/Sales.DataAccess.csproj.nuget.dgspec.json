@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {}
+    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {
+    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
         "projectName": "Sales.DataAccess",
-        "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Bushi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
-                "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj"
+              "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
+                "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj"
               },
-              "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
-                "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
+              "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
+                "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
               }
             }
           }
@@ -107,17 +110,20 @@
         }
       }
     },
-    "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
+    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj",
         "projectName": "Sales.Models",
-        "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj",
-        "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Models\\obj\\",
+        "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj",
+        "packagesPath": "C:\\Users\\Bushi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,8 +136,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
-                "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
+              "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
+                "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
               }
             }
           }
@@ -187,17 +193,20 @@
         }
       }
     },
-    "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
+    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
         "projectName": "Sales.Utility",
-        "projectPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
-        "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dbush\\source\\repos\\sales_pro\\Sales.Utility\\obj\\",
+        "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+        "packagesPath": "C:\\Users\\Bushi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

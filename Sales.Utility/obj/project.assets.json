@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dbush\\.nuget\\packages\\": {}
+    "C:\\Users\\Bushi\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dbush\\Source\\Repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
       "projectName": "Sales.Utility",
-      "projectPath": "C:\\Users\\dbush\\Source\\Repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
-      "packagesPath": "C:\\Users\\dbush\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dbush\\Source\\Repos\\sales_pro\\Sales.Utility\\obj\\",
+      "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+      "packagesPath": "C:\\Users\\Bushi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\dbush\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

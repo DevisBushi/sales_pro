@@ -51,6 +51,7 @@ namespace on_sales.Controllers
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return Json(new { success = false, message = "Gabim Gjate Fshirjes!" });
             }
            

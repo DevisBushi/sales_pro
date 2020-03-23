@@ -18,16 +18,16 @@ namespace on_sales.Pages.Customer.Cart
         {
             _workingUnit = workingUnit;
         }
-        public OrderDetailsCart OrderDetailsCartVM { get; set; }
+        public OrderDetailsCart detailCart { get; set; }
         public void OnGet()
         {
-            OrderDetailsCartVM = new OrderDetailsCart()
+            detailCart = new OrderDetailsCart()
             {
                 OrderHeader = new Sales.Models.OrderHeader(),
                 listCart = new List<ShoppingCart>()
             };
 
-            OrderDetailsCartVM.OrderHeader.OrderTotal = 0;
+            detailCart.OrderHeader.OrderTotal = 0;
 
             var claimsIdentity = (ClaimsIdentity)User.Identity;
             var claim = claimsIdentity.FindFirst(ClaimTypes.NameIdentifier);
@@ -38,14 +38,19 @@ namespace on_sales.Pages.Customer.Cart
 
                 if (cart != null)
                 {
-                    OrderDetailsCartVM.listCart = cart.ToList();
+                    detailCart.listCart = cart.ToList();
                 }
-                foreach (var cartList in OrderDetailsCartVM.listCart)
+                foreach (var cartList in detailCart.listCart)
                 {
                     cartList.PolicyItems = _workingUnit.PolicyItems.GetFirstOrDefault(p => p.Id == cartList.PolicyItemsId);
-                    OrderDetailsCartVM.OrderHeader.OrderTotal += (cartList.PolicyItems.Price * cartList.Count);
+                    detailCart.OrderHeader.OrderTotal += (cartList.PolicyItems.Price * cartList.Count);
                 }
             }
+
+            ApplicationUser applicationUser = _workingUnit.ApplicationUser.GetFirstOrDefault(c => c.Id == claim.Value);
+            detailCart.OrderHeader.PickupName = applicationUser.FullName;
+            detailCart.OrderHeader.PickUpTime = DateTime.Now;
+            detailCart.OrderHeader.PhoneNumber = applicationUser.PhoneNumber;
         }
 
     }

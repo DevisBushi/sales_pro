@@ -1,9 +1,11 @@
-﻿using on_sales.DataAccess;
-using Sales.DataAccess.Repository;
+﻿
+using Microsoft.AspNetCore.Mvc.Rendering;
+using on_sales.DataAccess;
 using Sales.DataAccess.Repository.IRepository;
 using Sales.Models;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Sales.DataAccess.Repository

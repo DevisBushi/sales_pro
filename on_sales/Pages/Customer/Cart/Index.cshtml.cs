@@ -26,8 +26,8 @@ namespace on_sales.Pages.Customer.Cart
         {
             OrderDetailsCartVM = new OrderDetailsCart()
             {
-                OrderHeader = new Sales.Models.OrderHeader(),
-                listCart = new List<ShoppingCart>()
+                OrderHeader = new Sales.Models.OrderHeader()
+                
             };
 
             OrderDetailsCartVM.OrderHeader.OrderTotal = 0;
@@ -58,35 +58,40 @@ namespace on_sales.Pages.Customer.Cart
             _workingUnit.Save();
             return RedirectToPage("/Customer/Cart/Index");
         }
+
         public IActionResult OnPostMinus(int cartId)
         {
             var cart = _workingUnit.ShoppingCart.GetFirstOrDefault(c => c.Id == cartId);
-            
-            if(cart.Count == 1)
+            if (cart.Count == 1)
             {
                 _workingUnit.ShoppingCart.Remove(cart);
                 _workingUnit.Save();
 
-                var cn = _workingUnit.ShoppingCart.GetAll(u => u.ApplicationUserId == cart.ApplicationUserId).ToList().Count;
-                HttpContext.Session.SetInt32(SD.ShoppingCart, cn);
+                var cnt = _workingUnit.ShoppingCart.
+                                GetAll(u => u.ApplicationUserId == cart.ApplicationUserId).ToList().Count;
+                HttpContext.Session.SetInt32(SD.ShoppingCart, cnt);
             }
             else
             {
                 _workingUnit.ShoppingCart.DecrementCount(cart, 1);
                 _workingUnit.Save();
+
             }
+
 
             return RedirectToPage("/Customer/Cart/Index");
         }
+
+
         public IActionResult OnPostRemove(int cartId)
         {
             var cart = _workingUnit.ShoppingCart.GetFirstOrDefault(c => c.Id == cartId);
             _workingUnit.ShoppingCart.Remove(cart);
             _workingUnit.Save();
 
-            var cn = _workingUnit.ShoppingCart.GetAll(u => u.ApplicationUserId == cart.ApplicationUserId).ToList().Count;
-            HttpContext.Session.SetInt32(SD.ShoppingCart, cn);
-            
+            var cnt = _workingUnit.ShoppingCart.
+                               GetAll(u => u.ApplicationUserId == cart.ApplicationUserId).ToList().Count;
+            HttpContext.Session.SetInt32(SD.ShoppingCart, cnt);
             return RedirectToPage("/Customer/Cart/Index");
         }
     }

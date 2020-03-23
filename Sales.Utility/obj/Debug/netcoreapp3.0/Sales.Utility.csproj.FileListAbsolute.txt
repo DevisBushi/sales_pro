@@ -38,3 +38,12 @@ C:\Users\dbush\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sale
 C:\Users\dbush\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.AssemblyInfo.cs
 C:\Users\dbush\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.dll
 C:\Users\dbush\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.pdb
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\bin\Debug\netcoreapp3.0\Sales.Utility.deps.json
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\bin\Debug\netcoreapp3.0\Sales.Utility.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\bin\Debug\netcoreapp3.0\Sales.Utility.pdb
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.csprojAssemblyReference.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.AssemblyInfoInputs.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.AssemblyInfo.cs
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.0\Sales.Utility.pdb

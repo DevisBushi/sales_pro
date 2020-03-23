@@ -62,3 +62,17 @@ C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\S
 C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CopyComplete
 C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.dll
 C:\Users\dbush\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.pdb
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.deps.json
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.pdb
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Models.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Utility.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Models.pdb
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Utility.pdb
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csprojAssemblyReference.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.AssemblyInfo.cs
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CopyComplete
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.dll
+C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.pdb
