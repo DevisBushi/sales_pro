@@ -2058,6 +2058,19 @@
           "Microsoft.AspNetCore.App"
         ]
       },
+      "Stripe.net/35.9.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "9.0.1",
+          "System.Configuration.ConfigurationManager": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Stripe.net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Stripe.net.dll": {}
+        }
+      },
       "System.AppContext/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -2346,7 +2359,7 @@
           "System.Security.Permissions": "4.5.0"
         },
         "compile": {
-          "ref/netstandard2.0/_._": {}
+          "ref/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
         },
         "runtime": {
           "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
@@ -6452,6 +6465,23 @@
         "lib/netstandard2.0/SoapCore.dll",
         "soapcore.1.0.0.nupkg.sha512",
         "soapcore.nuspec"
+      ]
+    },
+    "Stripe.net/35.9.0": {
+      "sha512": "/OUIhootwj8vLjGcw9cfk3eBqy3s4q89gTziZN7XG50T2rCTatRYW8i0B3uaka3laa7qRsIxGfrNL0+ICzEPVA==",
+      "type": "package",
+      "path": "stripe.net/35.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Stripe.net.dll",
+        "lib/net45/Stripe.net.pdb",
+        "lib/net45/Stripe.net.xml",
+        "lib/netstandard2.0/Stripe.net.dll",
+        "lib/netstandard2.0/Stripe.net.pdb",
+        "lib/netstandard2.0/Stripe.net.xml",
+        "stripe.net.35.9.0.nupkg.sha512",
+        "stripe.net.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -11039,7 +11069,8 @@
       "Microsoft.Extensions.Logging.Debug >= 3.1.1",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1",
       "Sales.DataAccess >= 1.0.0",
-      "SoapCore >= 1.0.0"
+      "SoapCore >= 1.0.0",
+      "Stripe.net >= 35.9.0"
     ]
   },
   "packageFolders": {
@@ -11122,6 +11153,10 @@
           "SoapCore": {
             "target": "Package",
             "version": "[1.0.0, )"
+          },
+          "Stripe.net": {
+            "target": "Package",
+            "version": "[35.9.0, )"
           }
         },
         "imports": [

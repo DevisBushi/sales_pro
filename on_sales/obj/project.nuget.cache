@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mPopuSB+i9aS10X+ml+VHho5hJJFYqX75RWM1E3sODV03gg8DrirGmVPvcJel5eC6BjfhNVIEMiXk8u4HNoWPg==",
+  "dgSpecHash": "HjNpmaWGni2yAEK1ghkwUkB4xU0Lj55cU/PfGYpGlnylfDH6nSc1BsiWx+RrkaccyfNNM1VnX54Bx9U9w+zajw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj",
   "expectedPackageFiles": [
@@ -143,6 +143,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Bushi\\.nuget\\packages\\soapcore\\1.0.0\\soapcore.1.0.0.nupkg.sha512",
+    "C:\\Users\\Bushi\\.nuget\\packages\\stripe.net\\35.9.0\\stripe.net.35.9.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\Bushi\\.nuget\\packages\\system.codedom\\4.6.0\\system.codedom.4.6.0.nupkg.sha512",

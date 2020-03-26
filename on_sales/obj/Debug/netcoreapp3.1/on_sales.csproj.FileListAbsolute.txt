@@ -2335,9 +2335,6 @@ C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\Sales.Dat
 C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\Sales.Models.pdb
 C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\Sales.Utility.pdb
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.csprojAssemblyReference.cache
-C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.csproj.CoreCompileInputs.cache
-C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.RazorAssemblyInfo.cache
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.RazorAssemblyInfo.cs
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.AssemblyInfoInputs.cache
@@ -2412,3 +2409,7 @@ C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\staticweb
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.dll
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.pdb
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.genruntimeconfig.cache
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.csproj.CoreCompileInputs.cache
+C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.MvcApplicationPartsAssemblyInfo.cache

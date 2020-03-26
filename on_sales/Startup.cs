@@ -16,6 +16,8 @@ using Sales.DataAccess.Repository;
 using Sales.DataAccess.Repository.IRepository;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using System.ServiceModel;
+using Sales.Utility;
+using Stripe;
 
 namespace on_sales
 {
@@ -48,7 +50,7 @@ namespace on_sales
                 options.Cookie.HttpOnly = true;
                 options.Cookie.IsEssential = true;
             });
-
+            services.Configure<StripeSettings>(Configuration.GetSection("Stripe"));
             //services.AddMvc(options => options.EnableEndpointRouting = false)
             //    .SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0);
 
@@ -81,7 +83,7 @@ namespace on_sales
             app.UseAuthentication();
             app.UseAuthorization();
 
-
+            StripeConfiguration.ApiKey = Configuration.GetSection("Stripe")["SecretKey"];
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

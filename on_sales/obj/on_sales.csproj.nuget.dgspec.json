@@ -80,6 +80,10 @@
             "SoapCore": {
               "target": "Package",
               "version": "[1.0.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[35.9.0, )"
             }
           },
           "imports": [
