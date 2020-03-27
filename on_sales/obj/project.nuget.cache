@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HjNpmaWGni2yAEK1ghkwUkB4xU0Lj55cU/PfGYpGlnylfDH6nSc1BsiWx+RrkaccyfNNM1VnX54Bx9U9w+zajw==",
+  "dgSpecHash": "mlwW2CJu4En1LjqJJ8kMfJeQojH7IgsiHomRUd5LNYUgzzC3OsIpJbNwD7jrXkcOzQ3w7eZy41tNhVmezV575Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Bushi\\.nuget\\packages\\microsoft.aspnetcore.authentication.facebook\\3.1.3\\microsoft.aspnetcore.authentication.facebook.3.1.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authorization.policy\\2.2.0\\microsoft.aspnetcore.authorization.policy.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

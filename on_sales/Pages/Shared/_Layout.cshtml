@@ -7,7 +7,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Sales</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/site.css" />
     <link rel="stylesheet" href="~/css/fonts.css" />
 </head>
@@ -35,9 +35,17 @@
                                 </div>
                             </li>
                         }
-                        else
+                        @if (User.IsInRole(SD.ApproverRole) || User.IsInRole(SD.ManagerRole))
                         {
-
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-page="/Administration/Order/ManageOrder">Menaxhimi i Porosise</a>
+                            </li>
+                        }
+                        @if (User.IsInRole(SD.FrontDeskRole) || User.IsInRole(SD.ManagerRole))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-page="/Administration/Order/OrderList">Dorezimi i Porosise</a>
+                            </li>
                         }
                         @if (HttpContextAccessor.HttpContext.Session.GetInt32(SD.ShoppingCart) != null)
                         {
@@ -75,8 +83,8 @@
     </footer>
 
 
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cleave.js/1.4.10/cleave.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cleave.js/1.4.10/addons/cleave-phone.us.js"></script>

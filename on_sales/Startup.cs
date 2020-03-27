@@ -56,6 +56,12 @@ namespace on_sales
 
             services.AddRazorPages();
             services.AddControllersWithViews().AddRazorRuntimeCompilation();
+            services.AddAuthentication().AddFacebook(facebookOptions =>
+                    {
+                        facebookOptions.AppId = "1195559700651923";
+                        facebookOptions.AppSecret = "6711b04d4459e694f1504f19c2681594";
+                    });
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

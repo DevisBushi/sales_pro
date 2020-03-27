@@ -2410,6 +2410,11 @@ C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.pdb
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.genruntimeconfig.cache
 C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\Stripe.net.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\Razor\Pages\Customer\Cart\OrderConfirmation.cshtml.g.cs
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.csproj.CoreCompileInputs.cache
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\Razor\Pages\Administration\Order\OrderList.cshtml.g.cs
+C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\Razor\Pages\Administration\Order\ManageOrder.cshtml.g.cs
+C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\Razor\Pages\Administration\Order\OrderDetails.cshtml.g.cs

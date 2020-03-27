@@ -26,7 +26,8 @@ namespace on_sales.Pages.Customer.Cart
         {
             OrderDetailsCartVM = new OrderDetailsCart()
             {
-                OrderHeader = new Sales.Models.OrderHeader()
+                OrderHeader = new Sales.Models.OrderHeader(),
+                listCart = new List<ShoppingCart>()
                 
             };
 
