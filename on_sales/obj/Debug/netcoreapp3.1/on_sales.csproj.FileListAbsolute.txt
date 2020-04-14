@@ -2418,3 +2418,12 @@ C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\on_sales.
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\Razor\Pages\Administration\Order\OrderList.cshtml.g.cs
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\Razor\Pages\Administration\Order\ManageOrder.cshtml.g.cs
 C:\Users\Bushi\source\repos\sales_pro\on_sales\obj\Debug\netcoreapp3.1\Razor\Pages\Administration\Order\OrderDetails.cshtml.g.cs
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+C:\Users\Bushi\source\repos\sales_pro\on_sales\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
