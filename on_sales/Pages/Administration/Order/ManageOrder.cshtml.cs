@@ -16,9 +16,9 @@ namespace on_sales.Pages.Administration.Order
     {
         private readonly IWorkingUnit _workingUnit;
 
-        public ManageOrderModel(IWorkingUnit unitOfWork)
+        public ManageOrderModel(IWorkingUnit workingUnit)
         {
-            _workingUnit = unitOfWork;
+            _workingUnit = workingUnit;
         }
 
         [BindProperty]

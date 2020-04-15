@@ -44,7 +44,7 @@
                         @if (User.IsInRole(SD.FrontDeskRole) || User.IsInRole(SD.ManagerRole))
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-page="/Administration/Order/OrderList">Dorezimi i Porosise</a>
+                                <a class="nav-link text-dark" asp-page="/Administration/Order/OrderList">Porosia</a>
                             </li>
                         }
                         @if (HttpContextAccessor.HttpContext.Session.GetInt32(SD.ShoppingCart) != null)
