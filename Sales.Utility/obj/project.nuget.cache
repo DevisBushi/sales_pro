@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rwzDtP05GGldTsto2zZcarEHlcjIC+GRrsXL75V1WjBFmZ4N25eZn0G2frbsB5cmO0tpscYx2Ztj3ZFwXGWbWA==",
+  "dgSpecHash": "03udkvwN3UgqpJ9vBJg1nSwc6m4eTf15IuTuam+Tqm31cMpXMfkvLhOWkbNmlhUuqaMfw9yf2DFXf5ZVwmxbCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Bushi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\Bushi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\Bushi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

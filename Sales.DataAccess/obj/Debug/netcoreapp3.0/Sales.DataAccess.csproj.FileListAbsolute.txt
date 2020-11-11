@@ -76,3 +76,17 @@ C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\S
 C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CopyComplete
 C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.dll
 C:\Users\Bushi\source\repos\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.pdb
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.deps.json
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.dll
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.DataAccess.pdb
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Models.dll
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Utility.dll
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Models.pdb
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\bin\Debug\netcoreapp3.0\Sales.Utility.pdb
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csprojAssemblyReference.cache
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.AssemblyInfo.cs
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.csproj.CopyComplete
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.dll
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.DataAccess\obj\Debug\netcoreapp3.0\Sales.DataAccess.pdb

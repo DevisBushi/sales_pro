@@ -1,0 +1,9 @@
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\bin\Debug\netcoreapp3.1\Sales.Utility.deps.json
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\bin\Debug\netcoreapp3.1\Sales.Utility.dll
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\bin\Debug\netcoreapp3.1\Sales.Utility.pdb
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.1\Sales.Utility.csprojAssemblyReference.cache
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.1\Sales.Utility.AssemblyInfoInputs.cache
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.1\Sales.Utility.AssemblyInfo.cs
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.1\Sales.Utility.csproj.CoreCompileInputs.cache
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.1\Sales.Utility.dll
+C:\Users\dbushi\Source\Repos\DevisBushi\sales_pro\Sales.Utility\obj\Debug\netcoreapp3.1\Sales.Utility.pdb

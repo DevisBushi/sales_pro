@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj": {}
+    "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\on_sales\\on_sales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj": {
+    "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\on_sales\\on_sales.csproj": {
       "version": "1.1.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj",
+        "projectUniqueName": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\on_sales\\on_sales.csproj",
         "projectName": "on_sales",
-        "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\on_sales\\on_sales.csproj",
-        "packagesPath": "C:\\Users\\Bushi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\on_sales\\obj\\",
+        "projectPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\on_sales\\on_sales.csproj",
+        "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\on_sales\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,9 +26,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj"
+              "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj"
               }
             }
           }
@@ -44,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.Facebook": {
               "target": "Package",
@@ -108,41 +107,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {
+    "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
         "projectName": "Sales.DataAccess",
-        "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Bushi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.DataAccess\\Sales.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
-                "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj"
+              "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
+                "projectPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Models\\Sales.Models.csproj"
               },
-              "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
-                "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
+              "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
+                "projectPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
               }
             }
           }
@@ -154,7 +151,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -195,57 +193,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
+    "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Models\\Sales.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj",
+        "projectUniqueName": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Models\\Sales.Models.csproj",
         "projectName": "Sales.Models",
-        "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\Sales.Models.csproj",
-        "packagesPath": "C:\\Users\\Bushi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Models\\obj\\",
+        "projectPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Models\\Sales.Models.csproj",
+        "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
-                "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
+              "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
+                "projectPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\Sales.Utility.csproj"
               }
             }
           }
@@ -257,7 +239,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
@@ -278,54 +261,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
+    "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\Sales.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
         "projectName": "Sales.Utility",
-        "projectPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
-        "packagesPath": "C:\\Users\\Bushi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bushi\\source\\repos\\sales_pro\\Sales.Utility\\obj\\",
+        "projectPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\Sales.Utility.csproj",
+        "packagesPath": "C:\\Users\\dbushi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dbushi\\Source\\Repos\\DevisBushi\\sales_pro\\Sales.Utility\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dbushi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -336,7 +303,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -347,26 +315,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.0.1, 3.0.1]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.0.0, 3.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
